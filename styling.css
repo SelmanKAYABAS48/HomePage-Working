@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Fuggles', cursive;
+font-family: 'Jolly Lodger', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Lobster Two', cursive;
+}
+
+
+body{
+    /* border: 2px solid;
+    border-radius: 30px; */
+    background-image: url(https://cdn.pixabay.com/photo/2017/02/08/17/24/fantasy-2049567_1280.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.contenthead{
+    margin-top:50px;
+    color: bisque;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 3px 3px black;
+}
+
+.head:hover{
+    color: red;
+    transition: 0.8s;
+
+
+}
+.forms{
+    margin: auto;
+    margin-top: 90px;
+    width: 250px;
+    color: red;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+   
+}
+
+
+#name1{
+
+    opacity: 0.5;
+    border-radius: 4px;
+
+    
+
+}
+#name1:hover{
+    cursor: pointer;
+    
+}
+
+#Email{
+    opacity: 0.5;
+    border-radius: 4px;
+}
+#Email:hover{
+    cursor: pointer;
+}
+
+#Password{
+    opacity: 0.5;
+    border-radius: 4px;
+    
+}
+
+
+.div{
+    margin: auto;
+    color: orangered;
+
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.button{
+   text-align: center;
+    opacity: 0.8;
+    transform: scale(1.0);
+    
+    
+
+}
+.button:hover{
+    color: magenta;
+    opacity: 0.7;
+
+}
+
